@@ -1,0 +1,30 @@
+2021-11-28T11:52:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Logger.php на строке 177
+
+2021-11-28T11:52:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\OrderController.php на строке 527
+
+2021-11-28T11:52:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\packages\woocommerce-admin\includes\wc-admin-update-functions.php на строке 297
+
+2021-11-28T11:52:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\packages\woocommerce-admin\includes\wc-admin-update-functions.php на строке 297
+
+2021-11-28T11:52:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-includes\formatting.php на строке 2758
+
+2021-11-28T11:52:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\packages\woocommerce-admin\includes\class-experimental-abtest.php на строке 177
+
+2021-11-28T12:03:52+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 64
+
+2021-11-28T12:06:24+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woo.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T12:06:25+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woo.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T12:06:30+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woo.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T12:45:22+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woocommerce.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T12:45:41+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woocommerce.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T12:46:26+00:00 CRITICAL require(): Failed opening required 'C:\OpenServer\domains\womazing/wp-content/themes/womazing/inc/woocommerce.php' (include_path='.') в C:\OpenServer\domains\womazing\wp-content\themes\womazing\functions.php на строке 230
+
+2021-11-28T15:41:09+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 36
+
+2021-11-28T16:31:07+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) в C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\archive-product.php на строке 95
+

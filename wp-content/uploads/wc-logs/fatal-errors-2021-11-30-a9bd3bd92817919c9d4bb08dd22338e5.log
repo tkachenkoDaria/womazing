@@ -1,0 +1,185 @@
+2021-11-30T05:42:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_number_of_related_products(), 0 passed in C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php on line 109 and exactly 1 expected in C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php:63
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php(109): change_number_of_related_products()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\single-product.php(37): wc_get_template_part()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\do в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 63
+
+2021-11-30T05:42:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_number_of_related_products(), 0 passed in C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php on line 109 and exactly 1 expected in C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php:63
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php(109): change_number_of_related_products()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\single-product.php(37): wc_get_template_part()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\do в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 63
+
+2021-11-30T05:42:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_number_of_related_products(), 0 passed in C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php on line 109 and exactly 1 expected in C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php:63
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php(109): change_number_of_related_products()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(772): require('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\single-product.php(37): wc_get_template_part()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\do в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 63
+
+2021-11-30T06:25:07+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING) в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 130
+
+2021-11-30T06:35:30+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 300
+
+2021-11-30T06:43:00+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 142
+
+2021-11-30T07:18:44+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php:73
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 73
+
+2021-11-30T07:18:57+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php:73
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 73
+
+2021-11-30T07:19:35+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php:73
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 73
+
+2021-11-30T08:40:31+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php:74
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 74
+
+2021-11-30T08:41:10+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php:74
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 74
+
+2021-11-30T08:51:01+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 247
+
+2021-11-30T08:58:28+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 253
+
+2021-11-30T09:04:27+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 259
+
+2021-11-30T09:05:52+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 247
+
+2021-11-30T09:57:35+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 188
+
+2021-11-30T10:03:31+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 191
+
+2021-11-30T10:05:33+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-cart.php на строке 195
+
+2021-11-30T12:01:31+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 152
+
+2021-11-30T12:08:14+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:70
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 70
+
+2021-11-30T12:08:20+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:70
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 70
+
+2021-11-30T12:09:30+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:70
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 70
+
+2021-11-30T12:10:51+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:74
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 74
+
+2021-11-30T12:12:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:74
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 74
+
+2021-11-30T12:13:28+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:76
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 76
+
+2021-11-30T12:16:03+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:76
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 76
+
+2021-11-30T12:16:31+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:76
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 76
+
+2021-11-30T12:17:33+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:76
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 76
+
+2021-11-30T14:33:30+00:00 CRITICAL syntax error, unexpected ';' в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 81
+
+2021-11-30T14:33:30+00:00 CRITICAL syntax error, unexpected ';' в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 81
+
+2021-11-30T17:16:48+00:00 CRITICAL syntax error, unexpected ')' в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 79
+
+2021-11-30T17:16:50+00:00 CRITICAL syntax error, unexpected ')' в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 79
+
+2021-11-30T19:58:10+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\checkout\review-order.php:40
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2310): wc_get_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\class-wp-hook.php(303): woocommerce_order_review()
+#3 C:\OpenServer\domains\womazing\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters()
+#4 C:\OpenServer\domains\womazing\wp-includes\plugin.php(470): WP_Hook->do_action()
+#5 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\checkout\form-checkout.php(77): do_action()
+#6 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\OpenServer\\d...')
+#7 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\shortcodes в C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\checkout\review-order.php на строке 40
+
+2021-11-30T20:08:16+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\checkout\review-order.php на строке 122
+

@@ -1,0 +1,17 @@
+2021-12-02T09:59:56+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_after_single_product() in C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php:110
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(772): require()
+#1 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template()
+#2 C:\OpenServer\domains\womazing\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part()
+#3 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#6 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\content-single-product.php на строке 110
+
+2021-12-02T17:44:14+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-coat.php на строке 10
+
+2021-12-02T22:12:41+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 136
+
+2021-12-02T22:47:26+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\inc\woo.php на строке 130
+

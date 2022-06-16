@@ -1,0 +1,234 @@
+2021-12-01T06:06:31+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\checkout\review-order.php на строке 49
+
+2021-12-01T08:33:55+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T08:34:03+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T08:34:07+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T08:34:17+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T14:55:54+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T14:56:00+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T18:42:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header.php:59
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\single-product.php(22): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header.php на строке 59
+
+2021-12-01T18:42:13+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header.php:59
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\woocommerce\single-product.php(22): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header.php на строке 59
+
+2021-12-01T18:42:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:42:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:43:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:43:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:43:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:44:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:45:30+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:45:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:51:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T18:52:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php:83
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template.php(770): require_once()
+#1 C:\OpenServer\domains\womazing\wp-includes\template.php(716): load_template()
+#2 C:\OpenServer\domains\womazing\wp-includes\general-template.php(48): locate_template()
+#3 C:\OpenServer\domains\womazing\wp-content\themes\womazing\template-home.php(7): get_header()
+#4 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\header-home.php на строке 83
+
+2021-12-01T19:03:00+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
+2021-12-01T19:03:29+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php:153
+Stack trace:
+#0 C:\OpenServer\domains\womazing\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\womazing\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\womazing\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\womazing\wp-content\themes\womazing\templtate-cart.php на строке 153
+
